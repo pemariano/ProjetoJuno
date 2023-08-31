@@ -34,6 +34,8 @@ Plots do programa ProjetoJuno_Calculo.m com cálculo das distâncias de acordo c
 
 Por fim após inúmeras simulações conseguimos identificar condições iniciais precisas que realizam com sucesso a manobra gravitacional e a sonda Juno chega até a órbita de Júpiter! 
 
+Uma órbita direta, sem manobra gravitacional, precisaria de uma velocidade inicial da sonda Juno de 30.000 km/h para chegar a órbita de Júpiter. A partir da simulação com a manobra conseguimos chegar na órbita de Júpiter com uma velocidade inicial da sonda Juno igual a 18450.40 km/h. Ou seja, conseguimos diminuir em um terço a velocidade inicial necessária da sonda Juno para que ela alcance Júpiter. Isso significa um foguete mais leve, mais barato e mais fácil de fazer.
+
 ![estilingue](https://github.com/pemariano/ProjetoJuno/assets/85647121/ba882a13-7b5e-40b8-873c-557b7f693c1a)
 
 Órbita do planeta Terra (azul) e de Júpiter (marrom) e da sonda Juno (laranja). 
